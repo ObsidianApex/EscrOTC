@@ -1,0 +1,10 @@
+
+Videos to watch
+	Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto
+		https://www.youtube.com/watch?v=Wn_Kb3MR_cU
+	Building a Full Web3 Mint Website for Beginners | React, Hardhat, Ethers, and Chakra
+		https://www.youtube.com/watch?v=ynFNLBP2TPs
+	Profitable Web 3.0 App Ideas You Can Build!
+		https://www.youtube.com/watch?v=ZsB5EARgFG4
+	The ULTIMATE Blockchain Website Tutorial
+		https://www.youtube.com/watch?v=XKxt6y_86lk
